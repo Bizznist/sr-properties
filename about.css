@@ -944,7 +944,10 @@
  
 .features2-feature1 {
   gap: var(--dl-space-space-halfunit);
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;;
 }
  
 .features2-image1 {
@@ -958,7 +961,10 @@
  
 .features2-feature2 {
   gap: var(--dl-space-space-halfunit);
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
  
 .features2-image2 {
@@ -972,7 +978,10 @@
  
 .features2-feature3 {
   gap: var(--dl-space-space-halfunit);
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
  
 .features2-image3 {
@@ -986,7 +995,10 @@
  
 .features2-feature4 {
   gap: var(--dl-space-space-halfunit);
-  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
 }
  
 .features2-content5 {
