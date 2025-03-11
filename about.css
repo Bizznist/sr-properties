@@ -1007,11 +1007,12 @@
  
 .features2-feature5 {
   gap: var(--dl-space-space-halfunit);
-  align-items: flex-start;
+  align-items: center;
 }
  
 .features2-content6 {
   gap: var(--dl-space-space-halfunit);
+  align-items: center;
 }
  
 .features2-actions {
