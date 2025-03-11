@@ -592,6 +592,17 @@
   .navbar8-mobile-menu {
     padding: var(--dl-space-space-unit);
   }
+  
+  .thq-heading-1 {
+    font-size: 40px;
+  }
+  .thq-heading-2 {
+    font-size: 35px;
+  }
+  .thq-heading-3 {
+    font-size: 30px;
+  }
+  
 }
 
 .hero11-wrapper {
@@ -1933,6 +1944,7 @@
  
 .home-text208 {
   display: inline-block;
+  text-align: center;
 }
  
 .home-fragment57 {
