@@ -645,6 +645,7 @@
  
 .about-text51 {
   display: inline-block;
+  font-size: 30px;
 }
  
 .about-fragment28 {
@@ -670,6 +671,7 @@
  
 .about-text54 {
   display: inline-block;
+  font-size: 30px;
 }
  
 .about-fragment27 {
@@ -750,6 +752,18 @@
   max-width: 600px;
   align-items: center;
   flex-direction: column;
+}
+.about-text60 {
+  font-size: 30px;
+}
+.about-text63 {
+  font-size: 30px;
+}
+.about-text66 {
+  font-size: 30px;
+}
+.about-text78 {
+  font-size: 35px;
 }
  
 .features231-container3 {
@@ -1012,7 +1026,7 @@
  
 .features2-content6 {
   gap: var(--dl-space-space-halfunit);
-  align-items: center;
+  text-align: center;
 }
  
 .features2-actions {
