@@ -594,13 +594,13 @@
   }
   
   .thq-heading-1 {
-    font-size: 40px;
-  }
-  .thq-heading-2 {
     font-size: 35px;
   }
-  .thq-heading-3 {
+  .thq-heading-2 {
     font-size: 30px;
+  }
+  .thq-heading-3 {
+    font-size: 25px;
   }
   
 }
